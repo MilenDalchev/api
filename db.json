@@ -15,6 +15,7 @@
 	],
 	"permissions": [
 		"CREATE",
+		"READ",
 		"UPDATE",
 		"DELETE"
 	]

@@ -17,6 +17,5 @@
 		"CREATE",
 		"READ",
 		"UPDATE",
-		"DELETE"
 	]
 }

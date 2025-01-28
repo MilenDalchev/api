@@ -14,13 +14,9 @@
 		}
 	],
 	"permissions": [
-		{
-			"user": [
-				"CREATE",
-				"READ",
-				"UPDATE",
-				"DELETE"
-			]
-		}
+		"CREATE",
+		"READ",
+		"UPDATE",
+		"DELETE"
 	]
 }
